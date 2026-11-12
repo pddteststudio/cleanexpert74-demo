@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="520" height="500" viewBox="0 0 520 500" fill="none" role="img" aria-hidden="true"><defs>
+ <linearGradient id="a" x1=".12" y1="0" x2=".85" y2="1" gradientUnits="objectBoundingBox"><stop stop-color="#DCD1F6"/><stop offset="1" stop-color="#A98CD8"/></linearGradient>
+ <linearGradient id="b" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#FFFDFD"/><stop offset="1" stop-color="#E7DCF5"/></linearGradient>
+ <linearGradient id="c" x1=".2" y1="0" x2=".8" y2="1"><stop stop-color="#A887E0"/><stop offset="1" stop-color="#654B9A"/></linearGradient>
+ <linearGradient id="floor" x1="0" y1="0" x2="0" y2="1"><stop stop-color="#E3D9EE"/><stop offset="1" stop-color="#C2AFDC"/></linearGradient>
+ <filter id="sh"><feGaussianBlur stdDeviation="11"/></filter>
+ </defs><circle cx="250" cy="255" r="212" fill="#443156" opacity=".055"/><circle cx="256" cy="241" r="135" fill="#C2AEDF"/><circle cx="256" cy="241" r="104" fill="#EDE5F7"/><path d="m186 244 47 47 96-108" stroke="#8162B8" stroke-width="31" stroke-linecap="round" stroke-linejoin="round"/><path d="M396 134v43m-21-21h43" stroke="#E6D3AD" stroke-width="9" stroke-linecap="round"/></svg>

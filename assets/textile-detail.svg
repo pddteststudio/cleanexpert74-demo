@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="860" height="620" viewBox="0 0 860 620" fill="none" role="img" aria-hidden="true"><defs>
+ <linearGradient id="a" x1=".12" y1="0" x2=".85" y2="1" gradientUnits="objectBoundingBox"><stop stop-color="#DCD1F6"/><stop offset="1" stop-color="#A98CD8"/></linearGradient>
+ <linearGradient id="b" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#FFFDFD"/><stop offset="1" stop-color="#E7DCF5"/></linearGradient>
+ <linearGradient id="c" x1=".2" y1="0" x2=".8" y2="1"><stop stop-color="#A887E0"/><stop offset="1" stop-color="#654B9A"/></linearGradient>
+ <linearGradient id="floor" x1="0" y1="0" x2="0" y2="1"><stop stop-color="#E3D9EE"/><stop offset="1" stop-color="#C2AFDC"/></linearGradient>
+ <filter id="sh"><feGaussianBlur stdDeviation="11"/></filter>
+ </defs><rect width="860" height="620" rx="44" fill="#F0EAF8"/><circle cx="711" cy="125" r="206" fill="#E3D8F0"/><path d="M99 372c22-100 177-164 324-162 125 1 251 54 307 145l-38 75H146l-47-58Z" fill="#BDA5DE"/><path d="M140 375c65-72 152-100 267-100 121 0 233 46 287 111" stroke="#EEE5FC" stroke-width="50" stroke-linecap="round"/><path d="M179 449c56-34 163-59 251-48 88 10 168 33 224 63" stroke="#9274BA" stroke-width="35" stroke-linecap="round"/><g stroke="#FFF9E5" stroke-width="9" stroke-linecap="round"><path d="M665 122v52m-26-26h52M731 228v25m-12-12h25"/></g><path d="M181 525c88 23 205 25 300-8" stroke="#CAB9E7" stroke-width="14" stroke-linecap="round"/></svg>
